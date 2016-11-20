@@ -1,14 +1,19 @@
 # RNProgressTracker
-<ProgressTracker fillUpToLabelIndex = {2} fillColor = 'green' Labels = {['Shipped','Transit','Transit','Transit','Delivered']}/>
+
 A Ready-to-Use ProgressTracker
 
-usage:
+Require
 
 var ProgressTracker = require('./ProgressTracker')
 
-
-
-
+## MapView
+```jsx
+  <ProgressTracker
+    fillUpToLabelIndex = {2}
+    fillColor = 'green'
+    Labels = {['Shipped','Transit','Transit','Transit','Delivered']}
+  />
+```
 
 
 ![alt tag](https://github.com/symmetriccurve/RNProgressTracker/blob/master/gifs/Nov-20-2016%2012-09-56.gif)
