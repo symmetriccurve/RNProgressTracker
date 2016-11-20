@@ -6,7 +6,7 @@ Require
 
 var ProgressTracker = require('./ProgressTracker')
 
-## MapView
+## Usage
 ```jsx
   <ProgressTracker
     fillUpToLabelIndex = {2}
