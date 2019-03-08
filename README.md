@@ -7,12 +7,14 @@ Require
 var ProgressTracker = require('./ProgressTracker')
 
 ## Usage
-```jsx
+```
+
   <ProgressTracker
     fillUpToLabelIndex = {2}
     fillColor = 'green'
     Labels = {['Shipped','Transit','Transit','Transit','Delivered']}
   />
+  
 ```
 
 
