@@ -7,7 +7,8 @@ Require
 var ProgressTracker = require('./ProgressTracker')
 
 ## Usage
-```
+
+```js
 
   <ProgressTracker
     fillUpToLabelIndex = {2}
