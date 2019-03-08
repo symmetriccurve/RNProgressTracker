@@ -19,4 +19,4 @@ var ProgressTracker = require('./ProgressTracker')
 ```
 
 
-![alt tag](https://github.com/symmetriccurve/RNProgressTracker/blob/master/gifs/Nov-20-2016%2012-09-56.gif)
+![alt tag](https://raw.githubusercontent.com/symmetriccurve/RNProgressTracker/master/gifs/Nov-20-2016%2012-09-56.gif)
