@@ -1,6 +1,6 @@
 # RNProgressTracker
 
-A Ready-to-Use ProgressTracker
+ProgressTracker
 
 Require
 
